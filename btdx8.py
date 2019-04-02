@@ -1,7 +1,9 @@
 import requests
 import re
 from bs4 import BeautifulSoup
-
+'''
+用于下载https://www.btdx8.com/最新电影的种子
+'''
 
 class Btdx8():
 
